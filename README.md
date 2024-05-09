@@ -37,13 +37,13 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 Solution URL: git@github.com:YuliiaPylypiv/challange10SVG.git
 
- YouTube Walkthrough Video:
+ YouTube Walkthrough Video: https://youtu.be/h3xDapvZZ6g
 
 
 
 
 Installation:
-1. Clone the repository:
+1. Clone the repository:git@github.com:YuliiaPylypiv/challange10SVG.git
 2. Install the following: 
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
