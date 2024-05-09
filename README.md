@@ -35,7 +35,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 
-Solution URL:
+Solution URL: git@github.com:YuliiaPylypiv/challange10SVG.git
 
  YouTube Walkthrough Video:
 
